@@ -1,4 +1,4 @@
-# korean-similarity 📊
+# korean_apparent_similarity 📊
 
 : To score apparent similarity between korean texts
 
