@@ -1,8 +1,4 @@
-# korean-similarity 📊
-
-: To score apparent similarity between korean texts
-
-: 한국어 문자열 유사도를 측정하기 위한 코드입니다.
+![logo](/img/logo.png)
 
 ----
 
